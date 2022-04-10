@@ -1,4 +1,4 @@
-# Square Numert takes an integer as an input and prints it square.
+# Square Number takes an integer as an input and prints it square.
 
 ## Installation
 ```pip install square-number```
